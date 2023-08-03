@@ -1,3 +1,6 @@
+//This code makes a game called Power 4 board game
+//A win is to have an uninterrupted sequence of the same player symbol
+
 #include <iostream>
 #include "power4.h" //Find this header file in this repository  
 using namespace std;
